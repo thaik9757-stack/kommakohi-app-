@@ -1,0 +1,13 @@
+{
+  "name": "Kommakohi - Inventory & Stock Control",
+  "short_name": "Kommakohi",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f0d0c",
+  "description": "Aplikasi manajemen stok dan inventory Kommakohi Coffee Shop.",
+  "icons": [
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
